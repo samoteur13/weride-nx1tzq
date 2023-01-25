@@ -1,0 +1,8 @@
+{
+  "name": "weride",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "636f4cd0"
+}

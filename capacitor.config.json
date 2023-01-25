@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "weride",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
